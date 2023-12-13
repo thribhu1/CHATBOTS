@@ -1,5 +1,5 @@
 
-# Codebasics Q&A: Question and Answer System Based on Google Palm LLM and Langchain for E-learning company  
+# Edtech Q&A: Question and Answer System Based on Google Palm LLM and Langchain for E-learning company  
 
 This is an end to end LLM project based on Google Palm and Langchain.
 ![](edtechChatbot.png)
